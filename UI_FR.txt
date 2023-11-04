@@ -17,6 +17,9 @@ UI_FR = {
     UI_Item_Morphine_Name = "Morphine",
     UI_Item_Morphine_Description = "Analgésique opioïde, agoniste des récepteurs opioïdes. A un effet analgésique prononcé.",
     UI_Item_Morphine_SideEffects = "Vomissements, nausées, bouche sèche, effet sédatif ou excitant, hallucinations, troubles circulatoires du cerveau, vertiges, évanouissements, somnolence.",
+	UI_DrugGroup_Morphine_Name = "Morphine",
+	UI_DrugGroup_Morphine_Description = "Analgésique opioïde, agoniste des récepteurs opioïdes. A un effet analgésique prononcé.",
+
 
     UI_Item_Butamirate_Name = "Butamirate",
     UI_Item_Butamirate_Description = "Agent antitussif d'action centrale. Le butamirate n'appartient pas aux alcaloïdes de l'opium. Il ne forme pas de dépendance. Supprime la toux, a un effet direct sur le centre de la toux.",
@@ -111,7 +114,9 @@ UI_FR = {
     UI_DosageForm_Oral_Pill_Name = "Comprimé par voie orale",
     UI_DosageForm_Oral_Pill_Action = "Prendre un comprimé",
     UI_DosageForm_Inhalation_Inhaler_Name = "Inhalateur",
+	UI_DosageForm_Parenteral_Inhaler_Name = "Inhalateur",
     UI_DosageForm_Inhalation_Inhaler_Action = "Utiliser un inhalateur",
+	UI_DosageForm_Parenteral_Inhaler_Action = "Utiliser un inhalateur",
     UI_DosageForm_Parenteral_Intramuscular_Name = "Injection intramusculaire",
     UI_DosageForm_Parenteral_Intramuscular_Action = "Effectuer une injection intramusculaire",
     UI_DosageForm_Parenteral_Intravenous_Name = "Injection intraveineuse",
@@ -173,4 +178,6 @@ UI_FR = {
     UI_SideEffect_VisualImpairment_Name = "Déficience visuelle",
     UI_SideEffect_VisualImpairment_Lvl_1_Description = "La vision est un peu trouble",
     UI_SideEffect_Sweating_Name = "En nage",
+
+	UI_ContextMenu_Take = "Prendre",
 }
